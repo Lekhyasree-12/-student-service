@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vaults_student_management_kv881_name": {
+            "value": null
+        },
+        "registries_studentmanagement881_name": {
+            "value": null
+        },
+        "flexibleServers_student_management_pg_name": {
+            "value": null
+        },
+        "userAssignedIdentities_student_management_identity_name": {
+            "value": null
+        }
+    }
+}
